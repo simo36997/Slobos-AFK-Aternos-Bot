@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "psychosmps.aternos.me
-",
+    "ip": "psychosmps.aternos.me",
     "port": 31853,
     "version": "",
     "try-creative": false
